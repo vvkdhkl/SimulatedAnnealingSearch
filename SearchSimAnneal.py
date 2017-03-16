@@ -1,12 +1,5 @@
 # coding: utf-8
 
-# This is some demo Python code for reading in a problem instance and
-# initial assignment for the first programming assignment of T-79.4101
-# Discrete Models and Search, written for Python 3.4.2
-#
-# Note: the main method here just reads in a problem instance file and the
-# initial assignment, and then prints both of them to the specified output
-# file.
 
 import sys
 from random import randint
